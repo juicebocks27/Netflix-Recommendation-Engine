@@ -1,2 +1,5 @@
-# Netflix-Recommendation-Engine
-This project is a Netflix recommendation system that utilizes Machine Learning techniques to provide personalized movie and TV show recommendations based on user input.
+**# Netflix-Recommendation-Engine**
+
+**This project is a Netflix recommendation system that utilises Machine Learning techniques to provide personalized movie and TV show recommendations based on user input.**
+
+In this project, a Netflix recommendation catering to the interests of movie enthusiasts like myself is created. By leveraging the power of modules such as tkinter, re, nltk, pandas, and numpy, an intuitive graphical user interface (GUI) is developed where users can input their favourite Netflix movies or TV shows. The system then uses features like cast, director, ratings, country, and genres to analyse and identify similar content. Implementing the cosine similarity approach, I designed the system to generate tailored recommendations based on user input. Throughout the development process, I employed pandas and numpy to efficiently clean and preprocess the extensive dataset containing Netflix movies and TV shows, ensuring accurate and insightful results. The dataset containing Netflix movies and TV shows was obtained from Kaggle and can be accessed [here]([url](https://www.kaggle.com/datasets/satpreetmakhija/netflix-movies-and-tv-shows-2021?resource=download)).
